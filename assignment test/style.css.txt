@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    text-align: center;
+}
+
+
+button {
+    background-color: #f20505;
+    color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    padding: 10px;
+}
+
+.registerDetails {
+    font-size: 10px;
+}
+
+.col {
+    display: flex;
+    width: 10px;
+}
+
+.size {
+    margin: 10px;
+}
+
+
+
+
+
+
+.imgScroll {
+    display: flex;
+    overflow: auto;
+}
+
+.smileImg {
+    width: 150px;
+    padding: 10px;
+}
+
+
+.whyChoose {
+    display: flex;
+    font-size: 15px;
+    text-align: left;
+}
+
+
+.toothImg {
+    width: 150px;
+    height: 200px
+}
+
+.scrole {
+    display: flex;
+    overflow: auto;
+    padding: 10px;
+}
+
+.a {
+    width: 200px;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    font-size: 10px;
+    text-align: left;
+}
+
+.con {
+    display: flex;
+}
+
+
+.footer {
+    display: flex;
+    font-size: 10px;
+}
+
+.bookingAppointment {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.img {
+    width: 50vw;
+    height: 200px;
+}
+
+.homePage {
+    display: flex;
+}
